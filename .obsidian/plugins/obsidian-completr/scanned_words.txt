@@ -1,5 +1,6 @@
 Obsidian
 iPad
+important
 Windows
 Github
 Git
@@ -15,3 +16,10 @@ Pull
 Push
 Isuue
 YouTube
+big
+br
+head
+fun
+fact
+TODO
+series
