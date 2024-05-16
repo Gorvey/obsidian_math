@@ -10,6 +10,7 @@ README
 assets
 all
 graph
+geo
 jpg
 Commit
 Pull
@@ -23,3 +24,8 @@ fun
 fact
 TODO
 series
+derivative
+def
+vis
+eg
+weifen
