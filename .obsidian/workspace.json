@@ -85,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-3. 一元函数微分学/3. 一元函数微分学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-3. 一元函数微分学/3. 一元函数微分学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1-3. 一元函数微分学/3. 一元函数微分学.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -144,11 +140,46 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6b70e107166088d3",
+  "floating": {
+    "id": "584038c20f7d7e44",
+    "type": "floating",
+    "children": [
+      {
+        "id": "128875e220b14777",
+        "type": "window",
+        "children": [
+          {
+            "id": "5af7b3726a9d0c5a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "24a6c11a88ebcdb4",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 576,
+        "y": 234,
+        "width": 902,
+        "height": 502,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "24a6c11a88ebcdb4",
   "lastOpenFiles": [
+    "1-3. 一元函数微分学/3. 一元函数微分学.md",
     "1-3. 一元函数微分学/2. 计算/对数求导法.md",
     "1-4. 一元函数积分学/1. 概念/4-1. 概念.md",
     "1-4. 一元函数积分学/4. 一元函数积分学.md",
@@ -177,7 +208,6 @@
     "1-6. 二重积分",
     "1-5. 多元函数微分学/5. 多元函数微分学.md",
     "1-5. 多元函数微分学",
-    "0. 杂项/0. 杂项.md",
     "未命名.canvas"
   ]
 }
