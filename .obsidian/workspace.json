@@ -11,8 +11,12 @@
             "id": "6b70e107166088d3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1-3. 一元函数微分学/3. 一元函数微分学.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1-3. 一元函数微分学/3. 一元函数微分学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1-3. 一元函数微分学/3. 一元函数微分学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1-3. 一元函数微分学/3. 一元函数微分学.md"
+              }
             }
           }
         ],
@@ -141,6 +149,7 @@
   },
   "active": "6b70e107166088d3",
   "lastOpenFiles": [
+    "1-3. 一元函数微分学/2. 计算/对数求导法.md",
     "1-4. 一元函数积分学/1. 概念/4-1. 概念.md",
     "1-4. 一元函数积分学/4. 一元函数积分学.md",
     "1-3. 一元函数微分学/2. 计算/3-2. 计算.md",
@@ -169,7 +178,6 @@
     "1-5. 多元函数微分学/5. 多元函数微分学.md",
     "1-5. 多元函数微分学",
     "0. 杂项/0. 杂项.md",
-    "高等数学主目录.md",
     "未命名.canvas"
   ]
 }
